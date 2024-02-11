@@ -1,2 +1,1 @@
-# smile
- Become more approachable in seconds.
+# camera_kit_demo
